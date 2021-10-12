@@ -1,6 +1,6 @@
 //const proceso = require('process'); Y aviene global
 
-process.on('exit', () => {
+process.on('exit', () => {//se desconecta totalmente del eventloop
     console.log('El proceso acabó');
 })
 
