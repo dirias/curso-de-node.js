@@ -4,6 +4,7 @@
   "description": "curso-de-node.js",
   "main": "index.js",
   "dependencies": {
+    "node": "^16.10.0",
     "node-gyp": "^8.2.0"
   },
   "devDependencies": {
